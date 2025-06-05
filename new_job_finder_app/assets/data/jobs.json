@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Flutter Developer",
+      "image": "https://example.com/flutter.png",
+      "job_time_type": "Full-time",
+      "job_type": "Software Engineer",
+      "job_level": "Mid-level",
+      "job_description": "Develop Flutter apps.",
+      "job_skill": "Dart, Flutter",
+      "comp_name": "Tech Company",
+      "comp_email": "hr@techcompany.com",
+      "comp_website": "https://techcompany.com",
+      "about_comp": "A leading tech company.",
+      "location": "Almaty, Kazakhstan",
+      "salary": "500000 KZT",
+      "favorites": 10,
+      "expired": 0,
+      "created_at": "2025-03-11",
+      "updated_at": "2025-03-11"
+    }
+  ]
+  
